@@ -1,5 +1,5 @@
 # Systemintegration - Labb 2
-## Gösta Carlstrand, Jonathand Earnest, Dan Edström, Edvin Zackrisson
+## Jonathand Earnest
 
 ### Instruktioner
 1. Importera routes i APISIX_routes_20221208103406.json
